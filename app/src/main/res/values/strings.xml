@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonDemoOne</string>
+    <string name="login_btn">Login</string>
+    <string name="logout_btn">Logout</string>
+</resources>
